@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580831779303.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2857043538",
+    "id" : "687557C2",
+    "lastKnownWriteTime" : 1581422751,
+    "last_content_update" : 1581422751,
+    "path" : "~/Documents/FEINA/POSTDOCTORAT/MSCA_FOREPAST/ARTICLES/Temporal_Gloria/DataAnalysis/GloriaStormR/TwitterData.R",
+    "project_path" : "TwitterData.R",
+    "properties" : {
+        "cursorPosition" : "112,23",
+        "scrollLine" : "104",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

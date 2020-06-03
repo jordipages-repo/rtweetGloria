@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580902179778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3272154032",
+    "id" : "7876FDA0",
+    "lastKnownWriteTime" : 1591168621,
+    "last_content_update" : 1591168621742,
+    "path" : "~/Documents/FEINA/POSTDOCTORAT/MSCA_FOREPAST/ARTICLES/Temporal_Gloria/DataAnalysis/GloriaStormR/RtweetSetUp.R",
+    "project_path" : "RtweetSetUp.R",
+    "properties" : {
+        "cursorPosition" : "21,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

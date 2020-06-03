@@ -1,0 +1,33 @@
+#################################
+#       Setting up rtweet       #
+#     05-February-2020          #
+#################################
+
+library(rtweet)
+library(httpuv)
+
+# ACCOUNT @jordifpages --------------------------------------------------------------------------------------------
+# App name:  rtweetJordi
+# Only the 1st time you use rtweet in this machine (needs a Twitter developer account with an APP)
+api_key <- "1S6abPpejHsLVQkS2rND4WOYd"
+api_secret_key <- "TEJUcQ99nTGMODkGcHJ1Q2Y6SVvvdtPtHNGu2YYOSxZr3BkfY3"
+
+# Authenticate via web browser
+token <- create_token(
+  app = "rtweetJordi",
+  consumer_key = api_key,
+  consumer_secret = api_secret_key)
+
+
+
+# ACCOUNT @JordiRtweet --------------------------------------------------------------------------------------------
+# App name:  RtweetAppJordi
+# Only the 1st time you use rtweet in this machine (needs a Twitter developer account with an APP)
+api_key <- "wfzD9SwRkJD2EqdSmKUl3vv1l"
+api_secret_key <- "cuWbQUIUJ4hLrwKfdBpSmpf1wtRxqTjjKFO5DUEXt4CyyV2g22"
+
+# Authenticate via web browser
+token <- create_token(
+  app = "RtweetAppJordi",
+  consumer_key = api_key,
+  consumer_secret = api_secret_key)
